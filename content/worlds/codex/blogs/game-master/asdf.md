@@ -1,6 +1,6 @@
 ---
 {
-  "foundryUuid": "JournalEntry.9MpVRkbq00swLHKh.JournalEntryPage.gZpRL9LwM2Xusj3x",
+  "foundryUuid": "JournalEntry.9MpVRkbq00swLHKh.JournalEntryPage.BAJfSW5R2JBUCSuz",
   "world": "codex",
   "blogUuid": "JournalEntry.9MpVRkbq00swLHKh",
   "blogTitle": "GM Stuff (Copy)",
@@ -13,8 +13,8 @@
     "isGM": true
   },
   "authorSlug": "game-master",
-  "publishedAt": 1787285347103,
-  "updatedAt": 1787289894344
+  "publishedAt": 1787285350779,
+  "updatedAt": 1787288808655
 }
 ---
 
