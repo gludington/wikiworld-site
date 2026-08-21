@@ -18,4 +18,4 @@
 }
 ---
 
-<p>Second post</p><img src="baileywiki-content/assets/modules/baileywiki-city-district-01/icons/betterroofs-peeping-icon.webp"><p>asdf</p>
+<p>Second post</p><img src="/assets/ed8567c5559c8b94c8531ec08d20cb62249faef772f3d663ad20f0038e410e59.webp"><p>asdf</p>
