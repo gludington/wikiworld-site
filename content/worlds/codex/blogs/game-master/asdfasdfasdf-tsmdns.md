@@ -14,8 +14,8 @@
   },
   "authorSlug": "game-master",
   "publishedAt": 1787285370685,
-  "updatedAt": 1787285370685
+  "updatedAt": 1787290486986
 }
 ---
 
-<p></p>
+<h1>CLOUDFLARE IS KILLING ME</h1>
